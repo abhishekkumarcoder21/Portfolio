@@ -40,7 +40,7 @@ export const metadata: Metadata = {
     title: "Abhishek Kumar — Systems Engineer",
     description:
       "Building distributed systems, fault-tolerant infrastructure, and AI-powered developer tools.",
-    url: "https://abhishekkumar.dev",
+    url: "https://abhishek.zybytee.in",
     siteName: "Abhishek Kumar",
     locale: "en_US",
     type: "website",

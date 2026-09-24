@@ -9,7 +9,7 @@ IIIT Guwahati &bull; Class of 2026 &bull; Bengaluru, India
 
 <br />
 
-[![Website](https://img.shields.io/badge/Live_Portfolio-0B1120?style=for-the-badge&logo=vercel&logoColor=00F0FF&labelColor=0B1120)](https://abhishek-kumar-portfolio.vercel.app)
+[![Website](https://img.shields.io/badge/Live_Portfolio-0B1120?style=for-the-badge&logo=vercel&logoColor=00F0FF&labelColor=0B1120)](https://abhishek.zybytee.in)
 [![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 [![React](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript_5-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
